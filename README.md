@@ -1,6 +1,8 @@
 # CC-aircraft-ground-turning-radius-fix
 This addon fixes the ground turning radius of several CC aircraft.
 
+Keep note that using max rudder for the Airbus A330-900neo will cause it to slightly tip over. Make sure to turn very slowly and gently ~5-10kts.
+ 
 Aircraft fixed in this addon:
 
 Airbus A320-232
@@ -27,7 +29,7 @@ Airbus A321neo
 
 Airbus A330-200
 
-Airbus A330-900neo | Keep note that using max rudder for this aircraft will cause it to slightly tip over. Make sure to turn very slowly and gently <5kts.
+Airbus A330-900neo
 
 Airbus A340-300
 
