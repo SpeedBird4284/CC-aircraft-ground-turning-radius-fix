@@ -43,7 +43,7 @@ Boeing B767-400
 
 Boeing B787-10 Dreamliner
 
-Boeing B787-9
+Boeing B787-9 Dreamliner
 
 Bombardier Learjet 45 XR
 
