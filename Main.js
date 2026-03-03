@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         CC aircraft ground physics fix
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/SpeedBird4284/CC-aircraft-ground-turning-radius-fix
 // @version      3.0
 // @description  This addon fixes the turning radius of several CC aircraft.
 // @author       SpeedBird
