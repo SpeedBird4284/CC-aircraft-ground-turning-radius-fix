@@ -1,11 +1,16 @@
 // ==UserScript==
 // @name         CC aircraft ground physics fix
 // @namespace    https://github.com/SpeedBird4284/CC-aircraft-ground-turning-radius-fix
-// @version      3.0
+// @version      3.1
 // @description  This addon fixes the turning radius of several CC aircraft.
 // @author       SpeedBird
 // @match        https://www.geo-fs.com/geofs.php?v=3.9
 // @match        https://www.geo-fs.com/geofs.php
+// @match        https://www.geo-fs.com/geofs.php*
+// @match        https://beta.geo-fs.com/geofs.php
+// @match        https://play.geofs.com/*
+// @match        http://*/geofs.php*
+// @match        https://beta.geo-fs.com/geofs.php?a=22
 // @grant        none
 // ==/UserScript==
 
